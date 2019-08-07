@@ -1,0 +1,10 @@
+﻿  SMObject.cpp
+  XboxMain.cpp
+C:\Users\luyon\Desktop\3500\Assignment_2\Assign2\XboxModule\XboxMain.cpp(27,2): warning C4995:  'XInputEnable': name was marked as #pragma deprecated
+C:\Users\luyon\Desktop\3500\Assignment_2\Assign2\XboxModule\XboxMain.cpp(97,18): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\luyon\Desktop\3500\Assignment_2\Assign2\XboxModule\XboxMain.cpp(98,18): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+C:\Users\luyon\Desktop\3500\Assignment_2\Assign2\XboxModule\XboxMain.cpp(26,19): warning C4101:  'Vibration': unreferenced local variable
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  SMObject.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  XboxModule.vcxproj -> C:\Users\luyon\Desktop\3500\Assignment_2\Assign2\XboxModule\..\Executable\XboxModule.exe
