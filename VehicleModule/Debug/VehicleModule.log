@@ -1,0 +1,9 @@
+﻿  SMObject.cpp
+  VehicleMain.cpp
+C:\Users\luyon\Desktop\3500\Assignment_2\Assign2\VehicleModule\VehicleMain.cpp(98,1): warning C4996:  'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message :  see declaration of 'sprintf'
+  Generating Code...
+C:\Users\luyon\Desktop\3500\Assignment_2\Assign2\VehicleModule\VehicleMain.cpp(48,24): warning C4101:  'ReadData': unreferenced local variable
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  SMObject.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  VehicleModule.vcxproj -> C:\Users\luyon\Desktop\3500\Assignment_2\Assign2\VehicleModule\..\Executable\VehicleModule.exe
