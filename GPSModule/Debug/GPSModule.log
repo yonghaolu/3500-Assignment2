@@ -1,0 +1,8 @@
+﻿  SMObject.cpp
+  GPSMain.cpp
+C:\Users\luyon\Desktop\3500\Assignment_2\Assign2\GPSModule\GPS_Head.h(8,1): warning C4005:  'NO_ERROR': macro redefinition
+  Generating Code...
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(220): message :  see previous definition of 'NO_ERROR'
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  SMObject.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  GPSModule.vcxproj -> C:\Users\luyon\Desktop\3500\Assignment_2\Assign2\GPSModule\..\Executable\GPSModule.exe
