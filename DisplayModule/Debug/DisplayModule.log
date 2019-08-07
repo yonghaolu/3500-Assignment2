@@ -1,0 +1,46 @@
+﻿  Camera.cpp
+C:\Users\luyon\Desktop\3500\Assignment_2\SystemIntegrationVis-Base-2018\SystemIntegrationVis-Base-2018\Camera.cpp(42,37): warning C4305:  '=': truncation from 'double' to 'float'
+C:\Users\luyon\Desktop\3500\Assignment_2\SystemIntegrationVis-Base-2018\SystemIntegrationVis-Base-2018\Camera.cpp(43,35): warning C4305:  '=': truncation from 'double' to 'float'
+C:\Users\luyon\Desktop\3500\Assignment_2\SystemIntegrationVis-Base-2018\SystemIntegrationVis-Base-2018\Camera.cpp(84,62): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\luyon\Desktop\3500\Assignment_2\SystemIntegrationVis-Base-2018\SystemIntegrationVis-Base-2018\Camera.cpp(215,24): warning C4305:  '*=': truncation from 'double' to 'float'
+C:\Users\luyon\Desktop\3500\Assignment_2\SystemIntegrationVis-Base-2018\SystemIntegrationVis-Base-2018\Camera.cpp(216,24): warning C4305:  '*=': truncation from 'double' to 'float'
+C:\Users\luyon\Desktop\3500\Assignment_2\SystemIntegrationVis-Base-2018\SystemIntegrationVis-Base-2018\Camera.cpp(217,24): warning C4305:  '*=': truncation from 'double' to 'float'
+C:\Users\luyon\Desktop\3500\Assignment_2\SystemIntegrationVis-Base-2018\SystemIntegrationVis-Base-2018\Camera.cpp(276,34): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\luyon\Desktop\3500\Assignment_2\SystemIntegrationVis-Base-2018\SystemIntegrationVis-Base-2018\Camera.cpp(282,23): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\luyon\Desktop\3500\Assignment_2\SystemIntegrationVis-Base-2018\SystemIntegrationVis-Base-2018\Camera.cpp(283,23): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\luyon\Desktop\3500\Assignment_2\SystemIntegrationVis-Base-2018\SystemIntegrationVis-Base-2018\Camera.cpp(354,29): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\luyon\Desktop\3500\Assignment_2\SystemIntegrationVis-Base-2018\SystemIntegrationVis-Base-2018\Camera.cpp(398,27): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\luyon\Desktop\3500\Assignment_2\SystemIntegrationVis-Base-2018\SystemIntegrationVis-Base-2018\Camera.cpp(399,31): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\luyon\Desktop\3500\Assignment_2\SystemIntegrationVis-Base-2018\SystemIntegrationVis-Base-2018\Camera.cpp(434,61): warning C4244:  '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\luyon\Desktop\3500\Assignment_2\SystemIntegrationVis-Base-2018\SystemIntegrationVis-Base-2018\Camera.cpp(439,61): warning C4244:  '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\luyon\Desktop\3500\Assignment_2\SystemIntegrationVis-Base-2018\SystemIntegrationVis-Base-2018\Camera.cpp(443,11): warning C4101:  'new_dest_dir': unreferenced local variable
+C:\Users\luyon\Desktop\3500\Assignment_2\SystemIntegrationVis-Base-2018\SystemIntegrationVis-Base-2018\Camera.cpp(768,22): warning C4305:  '=': truncation from 'double' to 'float'
+C:\Users\luyon\Desktop\3500\Assignment_2\SystemIntegrationVis-Base-2018\SystemIntegrationVis-Base-2018\Camera.cpp(769,31): warning C4305:  '=': truncation from 'double' to 'float'
+C:\Users\luyon\Desktop\3500\Assignment_2\SystemIntegrationVis-Base-2018\SystemIntegrationVis-Base-2018\Camera.cpp(774,28): warning C4305:  '=': truncation from 'double' to 'float'
+C:\Users\luyon\Desktop\3500\Assignment_2\SystemIntegrationVis-Base-2018\SystemIntegrationVis-Base-2018\Camera.cpp(775,29): warning C4305:  '=': truncation from 'double' to 'float'
+C:\Users\luyon\Desktop\3500\Assignment_2\SystemIntegrationVis-Base-2018\SystemIntegrationVis-Base-2018\Camera.cpp(780,28): warning C4305:  '=': truncation from 'double' to 'float'
+  Frustum.cpp
+  Ground.cpp
+C:\Users\luyon\Desktop\3500\Assignment_2\SystemIntegrationVis-Base-2018\SystemIntegrationVis-Base-2018\Camera.cpp(781,28): warning C4305:  '=': truncation from 'double' to 'float'
+C:\Users\luyon\Desktop\3500\Assignment_2\SystemIntegrationVis-Base-2018\SystemIntegrationVis-Base-2018\Ground.cpp(21,16): warning C4244:  'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\luyon\Desktop\3500\Assignment_2\SystemIntegrationVis-Base-2018\SystemIntegrationVis-Base-2018\Ground.cpp(22,16): warning C4244:  'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\luyon\Desktop\3500\Assignment_2\SystemIntegrationVis-Base-2018\SystemIntegrationVis-Base-2018\Ground.cpp(24,26): warning C4244:  'argument': conversion from 'int' to 'GLfloat', possible loss of data
+  HUD.cpp
+C:\Users\luyon\Desktop\3500\Assignment_2\SystemIntegrationVis-Base-2018\SystemIntegrationVis-Base-2018\Ground.cpp(25,25): warning C4244:  'argument': conversion from 'int' to 'GLfloat', possible loss of data
+  KeyManager.cpp
+  main.cpp
+  Messages.cpp
+C:\Users\luyon\Desktop\3500\Assignment_2\SystemIntegrationVis-Base-2018\SystemIntegrationVis-Base-2018\HUD.cpp(39,20): warning C4018:  '<': signed/unsigned mismatch
+  MyVehicle.cpp
+  Quaternion.cpp
+  Shape.cpp
+  VectorMaths.cpp
+C:\Users\luyon\Desktop\3500\Assignment_2\SystemIntegrationVis-Base-2018\SystemIntegrationVis-Base-2018\Messages.cpp(229,19): warning C4018:  '<': signed/unsigned mismatch
+  Vehicle.cpp
+  SMObject.cpp
+  Generating Code...
+C:\Users\luyon\Desktop\3500\Assignment_2\SystemIntegrationVis-Base-2018\SystemIntegrationVis-Base-2018\VectorMaths.cpp(123,19): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Camera.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+MyVehicle.obj : warning LNK4248: unresolved typeref token (01000018) for 'GLUquadric'; image may not run
+  DisplayModule.vcxproj -> C:\Users\luyon\Desktop\3500\Assignment_2\Assign2\DisplayModule\..\Executable\DisplayModule.exe
