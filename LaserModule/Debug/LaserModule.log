@@ -1,0 +1,7 @@
+﻿  SMObject.cpp
+  LaserDefine.cpp
+  LaserMain.cpp
+  Generating Code...
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  SMObject.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  LaserModule.vcxproj -> C:\Users\luyon\Desktop\3500\Assignment_2\Assign2\LaserModule\..\Executable\LaserModule.exe
