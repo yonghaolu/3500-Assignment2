@@ -100,17 +100,17 @@ int main() {
 		GPSPtr->Northing = MyGps.Northing;
 		GPSPtr->Easting = MyGps.Easting;
 
-		Console::WriteLine("Northing: {0,12:f3}", GPSPtr->Northing);
-		Console::WriteLine("Easting:  {0,12:f3}", GPSPtr->Easting);
-		Console::WriteLine("Heighe:   {0,12:f3}m", MyGps.Height);
-		Console::WriteLine("CheckSum: {0,12:f3}", MyGps.Checksum);
+		Console::WriteLine("Northing: {0,12:d3}", GPSPtr->Northing);
+		Console::WriteLine("Easting:  {0,12:d3}", GPSPtr->Easting);
+		Console::WriteLine("Heighe:   {0,12:d3}m", MyGps.Height);
+		Console::WriteLine("CheckSum: {0,12:d3}", MyGps.Checksum);
 		
 		unsigned long CalculateSum = CalculateBlockCRC32(112-4, BytePtr);
-		Console::WriteLine("CRC32Sum: {0,12:f3}", CalculateSum);
+		Console::WriteLine("CRC32Sum: {0,12:d3}", CalculateSum);
 
 		if (CalculateSum == MyGps.Checksum) 
 		{
-			Console::WriteLine("Read all data;");
+			Console::WriteLine("Read all data，Valid;");
 		}
 		else
 		{
